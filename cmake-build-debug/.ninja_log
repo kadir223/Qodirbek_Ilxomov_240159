@@ -1,0 +1,11 @@
+# ninja log v6
+1	625	1743931552621636996	CMakeFiles/Qodirbek_Ilxomov_240159.dir/main.cpp.o	75f2200eab6f0b24
+7	430	1743931570008374860	CMakeFiles/Qodirbek_Ilxomov_240159.dir/problem1.cpp.o	c0cd5338f56bc050
+506	608	1743931860868623658	problem1	aa6061250b2b9948
+2	506	1743931860364619792	CMakeFiles/problem1.dir/problem1.cpp.o	40399e6ea3bf2806
+2	755	1743937121799032668	CMakeFiles/problem1.dir/Lab5.cpp.o	25afba6154211e97
+2	758	1743937121798322887	CMakeFiles/problem1.dir/Lab4.cpp.o	5d03f9c1e7b8f18d
+2	766	1743937121799162166	CMakeFiles/problem1.dir/Lab6.cpp.o	a924fc7c4b41a674
+3	767	1743937121799537660	CMakeFiles/problem1.dir/lab10.cpp.o	f92ad1f19f0d7748
+3	770	1743937121799430495	CMakeFiles/problem1.dir/lab9.cpp.o	704e33bd5829607d
+3	789	1743937121799319663	CMakeFiles/problem1.dir/Lab7.cpp.o	1d47b66b9e938e94
