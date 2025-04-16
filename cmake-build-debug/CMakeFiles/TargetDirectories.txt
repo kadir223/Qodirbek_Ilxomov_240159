@@ -1,4 +1,4 @@
-/Users/kadyr/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/Qodirbek_Ilxomov_240159.dir
-/Users/kadyr/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/problem1.dir
-/Users/kadyr/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kadyr/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/q.ilxomov/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/Qodirbek_Ilxomov_240159.dir
+/Users/q.ilxomov/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/problem1.dir
+/Users/q.ilxomov/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/q.ilxomov/CLionProjects/Qodirbek_Ilxomov_240159/cmake-build-debug/CMakeFiles/rebuild_cache.dir

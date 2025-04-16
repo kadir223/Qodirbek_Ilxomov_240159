@@ -10,7 +10,8 @@ add_executable(problem1 Lab4.cpp
         Lab7.cpp
         lab9.cpp
         lab10.cpp
-        "lab 11.cpp")
+        "lab 11.cpp"
+        lab14.cpp)
 
 
 
